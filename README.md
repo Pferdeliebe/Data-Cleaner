@@ -18,3 +18,4 @@ The script processes the data in the following steps:
 ## Usage
    - pip install pandas
    - dataset
+   - data cleaner.py
